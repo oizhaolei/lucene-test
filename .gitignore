@@ -1,0 +1,33 @@
+# maven ignore
+target/
+*.DS_Store
+/src/main/webapp/post
+/src/main/webapp/log
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+.tern-project
+
+HelloLucene/
+IndexingTest/
+SearchEnginer/
+index/_0.cfe
+index/_0.cfs
+index/_0.si
+index/segments_1
+index/write.lock
+SimpleFacetsExample-i/_3.cfe
+SimpleFacetsExample-i/_3.cfs
+SimpleFacetsExample-i/_3.si
+SimpleFacetsExample-i/segments_4
+SimpleFacetsExample-i/write.lock
+SimpleFacetsExample-t/_0.cfe
+SimpleFacetsExample-t/_0.cfs
+SimpleFacetsExample-t/_0.si
+SimpleFacetsExample-t/_1.cfe
+SimpleFacetsExample-t/_1.cfs
+SimpleFacetsExample-t/_1.si
+SimpleFacetsExample-t/segments_1
+SimpleFacetsExample-t/write.lock
